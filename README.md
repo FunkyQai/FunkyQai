@@ -1,4 +1,4 @@
-![Name GIF](text.gif)
+![Name GIF](name.gif)
 ---
 
 ### 🏆 About Me
