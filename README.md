@@ -13,6 +13,7 @@ My goal is to **hone my skills in cybersecurity**, contribute to impactful proje
   <a href="https://www.linkedin.com/in/abdul-qaiyum-lee/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="mailto:qaiyum.lee@redalphacyber.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -68,7 +69,7 @@ My goal is to **hone my skills in cybersecurity**, contribute to impactful proje
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/qaiyumlee?ext=heatmap" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=qaiyumlee&theme=leafy&animated=true" />
 </p>
 
