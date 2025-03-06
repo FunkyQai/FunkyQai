@@ -3,9 +3,7 @@
 
 ### 🏆 About Me
 Hi there 👋, I'm Qai!
-I'm a **cybersecurity professional** with a background in **AI and Machine Learning**. I enjoy **building applications**, exploring **emerging technologies** like **generative AI**, and **problem-solving** in cybersecurity.  
-
-In my free time, you’ll find me **rock climbing**, working on **fun programming projects**, or **diving into penetration testing** challenges. My goal is to **hone my skills in cybersecurity**, contribute to impactful projects, and **become a security engineer or penetration tester**.
+I'm an **aspiring cybersecurity professional** with some background in **AI and Machine Learning**. In my free time, you’ll find me **bouldering**, going on **adventures**, working on **fun programming projects**, or **diving into penetration testing** challenges. My goal is to **hone my skills in cybersecurity**, contribute to impactful projects, and **become a security engineer or penetration tester**.
 
 <br>
 <p align="center">
