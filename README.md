@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=qaiyumlee&theme=dark&animated=true" alt="LeetCode Badges" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/qaiyumlee?ext=heatmap)
