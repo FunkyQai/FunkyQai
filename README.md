@@ -1,5 +1,4 @@
 ![Name GIF](text.gif)
-
 ---
 
 ### 🏆 About Me
@@ -21,56 +20,34 @@ In my free time, you’ll find me **rock climbing**, working on **fun programmin
 
 ### 🛠️ Skills & Tools  
 
-<table>
-  <tr>
-    <td valign="top">
-      
-      #### **💻 Programming & Scripting**
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-      </p>
+#### 💻 Programming & Scripting  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-      #### **🔒 Cybersecurity & Networking**
-      <p>
-        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white">
-        <img src="https://img.shields.io/badge/Sysinternals-003F7D?style=flat-square">
-        <img src="https://img.shields.io/badge/Snort-FF6F00?style=flat-square">
-        <img src="https://img.shields.io/badge/Scapy-3776AB?style=flat-square">
-      </p>
+#### 🔒 Cybersecurity & Networking  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)  
+![Sysinternals](https://img.shields.io/badge/Sysinternals-003F7D?style=flat-square)  
+![Snort](https://img.shields.io/badge/Snort-FF6F00?style=flat-square)  
+![Scapy](https://img.shields.io/badge/Scapy-3776AB?style=flat-square)  
 
-    </td>
+#### 🧠 AI & Data Science  
+![LangChain](https://img.shields.io/badge/LangChain-FFD700?style=flat-square)  
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
 
-    <td valign="top">
-      
-      #### **🧠 AI & Data Science**
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-FFD700?style=flat-square">
-        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-      </p>
-
-      #### **🌐 Web & App Development**
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-        <img src="https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white">
-      </p>
-
-    </td>
-  </tr>
-</table>
+#### 🌐 Web & App Development  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
+![Django REST Framework](https://img.shields.io/badge/Django%20REST-092E20?style=flat-square&logo=django&logoColor=white)  
 
 ---
 
