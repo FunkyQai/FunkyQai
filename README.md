@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Name GIF](text.gif)
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=qaiyumlee&theme=dark&animated=true" alt="LeetCode Badges" />
 <img src="https://leetcard.jacoblin.cool/qaiyumlee?ext=heatmap" />
