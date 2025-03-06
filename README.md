@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=qaiyumlee" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=qaiyumlee&theme=dark&animated=true" alt="LeetCode Badges" />
