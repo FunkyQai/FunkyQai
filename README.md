@@ -6,7 +6,7 @@ Hello World 👋, I'm Qai! An **aspiring cybersecurity professional** with some 
 
 In my free time, you’ll find me **bouldering**, going on **adventures**, working on **fun programming projects**, or **diving into penetration testing** challenges. 
 
-My goal is to **hone my skills in cybersecurity**, contribute to impactful projects, and **become a security engineer or penetration tester**.
+My goal is to **hone my skills in cybersecurity**, contribute to impactful projects, and **become a security software engineer or penetration tester**.
 
 <br>
 <p align="center">
